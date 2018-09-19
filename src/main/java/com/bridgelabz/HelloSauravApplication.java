@@ -14,6 +14,6 @@ public class HelloSauravApplication {
 	}
 	@GetMapping("/")
 	public String getMessage() {
-		return "Hello saurav";
+		return "Hello beautyful Chitta";
 	}
 }
